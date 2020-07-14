@@ -10,6 +10,7 @@ body{
     color: white;
     display: flex;
     justify-content: space-evenly;
+    text-decoration: none;
 }
 .img{
     display: flex;
