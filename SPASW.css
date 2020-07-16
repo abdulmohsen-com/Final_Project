@@ -7,6 +7,7 @@ body{
 }
 .dis{
     color: white;  
+    text-align: center;
 }
 .button {
     display: inline-block;
@@ -51,7 +52,7 @@ body{
     justify-content: center;
 }
 .disA{
-text-align: right;
+text-align: center;
 color: white;
 }
 .center{
