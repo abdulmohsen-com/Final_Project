@@ -51,12 +51,13 @@ body{
     display:flex ;
     justify-content: center;
 }
-.disA{
-text-align: center;
-color: white;
-}
 .center{
   color: white;
   text-align: center;
   text-decoration: none;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
